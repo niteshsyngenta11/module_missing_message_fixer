@@ -2,6 +2,6 @@ name: Module Missing Message Fixer
 description: This module display a list of missing module that appear after the Drupal 7.50 release and lets you fix the entries.
 type: module
 package: Administration
-core: 7.x
+core: 8.x
 
 configure: module_missing_message_fixer.settings
